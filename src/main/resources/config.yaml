@@ -1,0 +1,7 @@
+
+
+consumerKey: "${CONSUMER_KEY}"
+consumerSecret: "${CONSUMER_SECRET}"
+trackMessagesContaining: "${TRACK_MSG}"
+amountOfMessagesToTrack: "${TRACK_AMOUNT}"
+amountOfTimeToTrack: "${TRACK_TIME}"
